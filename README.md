@@ -8,8 +8,6 @@
 
 La asignatura de Aprendizaje Automático introduce a los estudiantes en el diseño, implementación y evaluación de algoritmos capaces de aprender patrones a partir de datos. Su enfoque combina teoría, práctica y aplicación para desarrollar habilidades analíticas y computacionales en la resolución de problemas reales.
 
-Machine Learning 2026 Virtual
-
 ## Competencia General
 
 Desarrollar soluciones inteligentes basadas en datos, utilizando técnicas de aprendizaje automático para analizar, modelar y resolver problemas complejos en distintos contextos, con enfoque en la toma de decisiones y la extracción de conocimiento útil a partir de información real.
